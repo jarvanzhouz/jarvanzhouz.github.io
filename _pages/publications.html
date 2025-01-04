@@ -10,27 +10,19 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p align = "justify"> 
+<h2>Journal articles</h2>
+<ol reversed>
+<li><strong>Wu, S.</strong>, Huang, Q. & Zhao, L., 2024. Physics-informed deep learning-based inversion for airborne electromagnetic data. Geophysical Journal International, 238, 1774-1789. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
 
 
+</ol>
+
+<h2>Conference Papers</h2>
+<ol reversed>
+<li><strong>Wu, S.</strong>, Thoram, S., Sun, J., Sager, W. W. & Chen, J., 2024. Transforming the interpretation of marine magnetic anomalies through a machine learning-based framework. In AGU (American Geophysical Union) Annual Meeting Abstracts.</li>
+
+</ol>
+
+</p> 
