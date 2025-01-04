@@ -36,21 +36,21 @@ Work experience
 Honors and Awards
 ======
 * National Scholarship, Ministry of Education of the People’s Republic of China, 2024
-•	8th CVCI Excellent Poster Presentation Award, Top 2%, 2024
-•	Advanced Individual of Academic Innovation, Southeast University, 2024
-•	Suzhou Alumni Scholarship, First Class, Southeast University, Top 1%, 2024
-•	Southeast University Academic Scholarship x 3 (2022-2024)
-•	University Outstanding Graduate, Chongqing University of Technology, 2021
-•	National College Student Mathematics Competition, Chongqing, First Prize，2020
+* 8th CVCI Excellent Poster Presentation Award, Top 2%, 2024
+* Advanced Individual of Academic Innovation, Southeast University, 2024
+* Suzhou Alumni Scholarship, First Class, Southeast University, Top 1%, 2024
+* Southeast University Academic Scholarship x 3 (2022-2024)
+* University Outstanding Graduate, Chongqing University of Technology, 2021
+* National College Student Mathematics Competition, Chongqing, First Prize，2020
 
 Reviewers
 ======
 * IEEE Transactions on Transportation Electrification
-•	Energy
-•	Expert Systems With Applications
-•	TRB Annual Meeting 2025
-•	8th CAA International Conference on Vehicular Control and Intelligence (CVCI
-•	International Conference on Smart Transportation Interdisciplinary Studies
+* Energy
+* Expert Systems With Applications
+* TRB Annual Meeting 2025
+* 8th CAA International Conference on Vehicular Control and Intelligence (CVCI)
+* International Conference on Smart Transportation Interdisciplinary Studies
 
 
 Skills
