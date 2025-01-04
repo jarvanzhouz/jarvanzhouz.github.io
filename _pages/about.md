@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me &#128029;"
+title: "About me &#10024;"
 author_profile: true
 redirect_from: 
   - /about/
