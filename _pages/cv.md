@@ -46,12 +46,12 @@ Honors and Awards
 
 Reviewers
 ======
-* IEEE Transactions on Transportation Electrification
-* Energy
-* Expert Systems With Applications
-* TRB Annual Meeting 2025
-* 8th CAA International Conference on Vehicular Control and Intelligence (CVCI)
-* International Conference on Smart Transportation Interdisciplinary Studies
+* *IEEE Transactions on Transportation Electrification*
+* *Energy*
+* *Expert Systems With Applications*
+* *TRB Annual Meeting 2025*
+* *8th CAA International Conference on Vehicular Control and Intelligence (CVCI)*
+* *International Conference on Smart Transportation Interdisciplinary Studies*
 
 
 Skills
