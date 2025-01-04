@@ -32,7 +32,27 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+Honors and Awards
+======
+* National Scholarship, Ministry of Education of the People’s Republic of China, 2024
+•	8th CVCI Excellent Poster Presentation Award, Top 2%, 2024
+•	Advanced Individual of Academic Innovation, Southeast University, 2024
+•	Suzhou Alumni Scholarship, First Class, Southeast University, Top 1%, 2024
+•	Southeast University Academic Scholarship x 3 (2022-2024)
+•	University Outstanding Graduate, Chongqing University of Technology, 2021
+•	National College Student Mathematics Competition, Chongqing, First Prize，2020
+
+Reviewers
+======
+* IEEE Transactions on Transportation Electrification
+•	Energy
+•	Expert Systems With Applications
+•	TRB Annual Meeting 2025
+•	8th CAA International Conference on Vehicular Control and Intelligence (CVCI
+•	International Conference on Smart Transportation Interdisciplinary Studies
+
+
 Skills
 ======
 * Skill 1
@@ -42,24 +62,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
