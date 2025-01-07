@@ -19,14 +19,14 @@ Education
 
 Internship and Work Experience
 ======
+* Spring-Summer 2024: Autonomous Driving Intern Engineer
+  * China Automotive Innovation Corporation Technology Co., Ltd, Nanjing
+  * Duties includes: Pre-research and implementation of decision planning methods based on DRL
+  * Mentor: Weiqi Chen
 * Fall-Winter 2023: X-by-wire Chassis Research and Development Engineer
   * LeeKr Technology Co., Ltd, Shanghai
   * Duties includes: Design and test of intelligent air suspension
   * Mentor: Xiaofeng Lei
-* Spring-Summer 2024: Autonomous Driving Intern Engineer
-  * China Automotive Innovation Corporation Technology Co., Ltd, Nanjing
-  * Duties includes: Pre-research and implementation of decision planning methods based on DRL
-  * Mentor: Weiqi, Chen
 
 Honors and Awards
 ======
