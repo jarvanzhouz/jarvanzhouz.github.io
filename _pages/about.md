@@ -14,7 +14,7 @@ redirect_from:
 </p> 
 
 <strong>My research interests include:</strong>
-</p>
+
 <ul>
 <li>Connected and Autonomous Vehicles</li>
 <li>Digital Twin and World Model</li>
