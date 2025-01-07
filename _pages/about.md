@@ -13,6 +13,8 @@ redirect_from:
   I am a master student with the School of Transportation at Southeast University. I am currently looking for a PhD position in Smart Transportation.
 </p> 
 
+<strong>My research interests include:</strong>
+</p>
 <ul>
 <li>Connected and Autonomous Vehicles</li>
 <li>Deep Reinforcement Learning</li>
