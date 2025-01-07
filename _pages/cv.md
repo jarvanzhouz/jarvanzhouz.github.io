@@ -12,27 +12,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2028 (expected)
+* Ph.D in ?, ? University, 2029 (expected)
 * M.Eng. in Communication and Transportation, Southeast University, 2025
 * M.S. in Transportation System, Monash University, 2025
 * B.S. in Vehicle Engineering, Chongqing University of Technology, 2021
 
-Work experience
+Internship and Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: X-by-wire Chassis Research and Development Engineer
+  * LeeKr Technology Co., Ltd, Shanghai
+  * Duties includes: Design and test of intelligent air suspension
+  * Supervisor: Xiaofeng, Lei
 
 Honors and Awards
 ======
@@ -40,9 +30,10 @@ Honors and Awards
 * 8th CVCI Excellent Poster Presentation Award, Top 2%, 2024
 * Advanced Individual of Academic Innovation, Southeast University, 2024
 * Suzhou Alumni Scholarship, First Class, Southeast University, Top 1%, 2024
-* Southeast University Academic Scholarship x 3 (2022-2024)
-* University Outstanding Graduate, Chongqing University of Technology, 2021
+* Academic Scholarship x 3, Southeast University, 2022-2024
+* Outstanding Graduate, Chongqing University of Technology, 2021
 * National College Student Mathematics Competition, Chongqing, First Prize，2020
+* Academic Scholarship x 4, Chongqing University of Technology, 2017-2021
 
 Reviewers
 ======
@@ -51,16 +42,24 @@ Reviewers
 * *Expert Systems With Applications*
 * *TRB Annual Meeting 2025*
 * *8th CAA International Conference on Vehicular Control and Intelligence (CVCI)*
-* *International Conference on Smart Transportation Interdisciplinary Studies*
+* *International Conference on Smart Transportation Interdisciplinary Studies (ICSTIS)*
 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * MATLAB
+* Tools
+  * PyTorch
+  * MATLAB/Simulink
+  * Carla
+  * PreScan
+* Languages
+  * Mandarin
+  * English (Passed English-taught Master Program and English Degree Program of Monash University)
+* Others
+  * Writing of project proposal, grant application, and newsletter
+  * Photography and video editing
 
   
