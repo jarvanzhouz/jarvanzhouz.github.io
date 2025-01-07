@@ -18,7 +18,9 @@ redirect_from:
 <ul>
 <li>Connected and Autonomous Vehicles</li>
 <li>Digital Twin and World Model</li>
-<li>Deep Reinforcement Learning</li>
-<li>Eco-Driving</li>
 <li>Decision-marking in Autonomous Driving</li>
+<li>Eco-Driving</li>
+<li>Deep Reinforcement Learning</li>
 </ul>
+<br> 
+  <img src="/images/intro.png" alt="Project 3" style="max-width: 100%; height: auto; border-radius: 5px;">
