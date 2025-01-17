@@ -14,8 +14,8 @@ Education
 ======
 * Ph.D in ?, ? University, 2029 (expected)
 * M.Eng. in Communication and Transportation, Southeast University, 2025
-* M.S. in Transportation System, Monash University, 2025
-* B.S. in Vehicle Engineering, Chongqing University of Technology, 2021
+* M.Eng. in Transportation Systems, Monash University, 2025
+* B.Eng. in Vehicle Engineering, Chongqing University of Technology, 2021
 
 Internship and Work Experience
 ======
