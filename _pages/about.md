@@ -17,9 +17,9 @@ redirect_from:
 
 <ul>
 <li>Connected and Autonomous Vehicles</li>
-<li>Digital Twin and World Model</li>
-<li>Decision-marking in Autonomous Driving</li>
+<li>Decision-making and Planning in Autonomous Driving</li>
 <li>Eco-Driving</li>
+<li>Digital Twin and World Model</li>
 <li>Deep Reinforcement Learning</li>
 </ul>
 <br> 
