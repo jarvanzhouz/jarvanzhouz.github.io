@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in ?, ? University, 2029 (expected)
+* Ph.D in Civil Engineering, Monash University, 2029 (expected)
 * M.Eng. in Communication and Transportation, Southeast University, 2025
 * M.Eng. in Transportation Systems, Monash University, 2025
 * B.Eng. in Vehicle Engineering (New Energy and Intelligent Vehicle Educational Reform), Chongqing University of Technology, 2021
