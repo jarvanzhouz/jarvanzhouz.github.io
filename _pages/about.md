@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>Hi there, I'm Jixuan ZHOU &#128075;</h3>
 <p align = "justify"> 
-  I am a master student with the School of Transportation at Southeast University. I am currently looking for a PhD position in Smart Transportation.
+  I am a PhD Candidate in Civil Engineering at Monash University, affiliated with the Monash Research Center of Automated and Resilient Road Systems (MARRS) led by Professor Nan Zheng.
 </p> 
 
 <strong>My research interests include:</strong>
