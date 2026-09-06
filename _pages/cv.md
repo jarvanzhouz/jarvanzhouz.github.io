@@ -30,6 +30,7 @@ Internship and Work Experience
 
 Honors and Awards
 ======
+* Outstanding Master’s Thesis, Southeast University, 2026
 * National Scholarship, Ministry of Education of the People’s Republic of China, 2024
 * 8th CVCI Excellent Poster Presentation Award, Top 2%, 2024
 * Advanced Individual of Academic Innovation, Southeast University, 2024
