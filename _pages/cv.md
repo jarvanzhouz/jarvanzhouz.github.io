@@ -63,6 +63,12 @@ Projects
 * **Contributor**. Jiangsu Provincial Department of Industry and Information Technology Jiangsu Industrial and Information Industry Transformation and Upgrading Special Project: Research on Intelligent Connected Vehicle Network Security Testing Scenarios for Vehicle-Road Cooperation.
 * **Contributor**. Shandong Provincial Department of Science and Technology Shandong Provincial Key R&D Program: High-Precision Navigation and Positioning Technology for Multi-vehicle Cooperation.
 
+
+Patents
+=======
+* A Cloud Fault Diagnosis Method for Autonomous Vehicle Powertrain Systems Based on Causal-Physical Information, 2026. **(Under substantive examination; Second Inventor; Ranked First Among Students)**
+* A Transfer Learning-Based On-Board Fault Diagnosis Method for Electric Mining Trucks with Cross-Powertrain Architectures, 2026. **(Under substantive examination; Second Inventor; Ranked First Among Students)**
+
 Skills
 ======
 * Programming
