@@ -16,11 +16,9 @@ redirect_from:
 <strong>My research interests include:</strong>
 
 <ul>
-<li>Connected and Autonomous Vehicles</li>
-<li>Decision-making and Planning in Autonomous Driving</li>
-<li>Eco-Driving</li>
-<li>Digital Twin and World Model</li>
-<li>Deep Reinforcement Learning</li>
+<li>Personalized End-to-end Autonomous Driving</li>
+<li>Autonomous Driving World Model</li>
+<li>Agentic AI for Autonomous Transportation System</li>
 </ul>
 <br> 
   <img src="/images/intro.png" alt="Project 3" style="max-width: 100%; height: auto; border-radius: 5px;">
