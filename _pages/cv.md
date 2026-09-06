@@ -42,8 +42,12 @@ Honors and Awards
 
 Reviewers
 ======
-* *IEEE Transactions on Transportation Electrification*
+* *IEEE Transactions on Intelligent Vehicles*
+* *Applied Energy*
 * *Energy*
+* *Journal of Clean Production*
+* *Journal of Intelligent Transportation Systems*
+* *IEEE Transactions on Transportation Electrification*
 * *Expert Systems With Applications*
 * *TRB Annual Meeting 2025*
 * *8th CAA International Conference on Vehicular Control and Intelligence (CVCI)*
@@ -51,12 +55,13 @@ Reviewers
 
 Projects
 ======
-* Ministry of Science and Technology of the P.R.C National Key R&D Program Sub-task: Self-perception and Self-assessment Technology for the Operational Performance and Service State of Transport Equipment.
-* Ministry of Industry and Information Technology High-Quality Project: 2024 New Generation Wireless Communication and BeiDou Navigation Integrated Vehicle-mounted Intelligent Module Project.
-* National Natural Science Foundation of China General Program: Dynamic Scheduling and Energy Management Coupling Mechanism for Connected New Energy Public Transport Vehicles and Its Multi-objective Optimization Research.
-* National Natural Science Foundation of China General Program: Mechanism of Collaborative Energy-saving in Intelligent Connected New Energy Vehicle Groups and Cross-domain Hybrid Intelligence Optimization Control, January 2024 - December 2027.
-* Jiangsu Provincial Department of Industry and Information Technology Jiangsu Industrial and Information Industry Transformation and Upgrading Special Project: Research on Intelligent Connected Vehicle Network Security Testing Scenarios for Vehicle-Road Cooperation.
-* Shandong Provincial Department of Science and Technology Shandong Provincial Key R&D Program: High-Precision Navigation and Positioning Technology for Multi-vehicle Cooperation.
+* **Contributor**. Monash-JITRI Research and Development Fund Scheme: Research on Autonomous Driving Key Technology and Control Platform for Open-pit Mine Trucks.
+* **Contributor**. Ministry of Science and Technology of the P.R.C National Key R&D Program Sub-task: Self-perception and Self-assessment Technology for the Operational Performance and Service State of Transport Equipment.
+* **Contributor**. Ministry of Industry and Information Technology High-Quality Project: 2024 New Generation Wireless Communication and BeiDou Navigation Integrated Vehicle-mounted Intelligent Module Project.
+* **Contributor**. National Natural Science Foundation of China General Program: Dynamic Scheduling and Energy Management Coupling Mechanism for Connected New Energy Public Transport Vehicles and Its Multi-objective Optimization Research.
+* **Contributor**. National Natural Science Foundation of China General Program: Mechanism of Collaborative Energy-saving in Intelligent Connected New Energy Vehicle Groups and Cross-domain Hybrid Intelligence Optimization Control, January 2024 - December 2027.
+* **Contributor**. Jiangsu Provincial Department of Industry and Information Technology Jiangsu Industrial and Information Industry Transformation and Upgrading Special Project: Research on Intelligent Connected Vehicle Network Security Testing Scenarios for Vehicle-Road Cooperation.
+* **Contributor**. Shandong Provincial Department of Science and Technology Shandong Provincial Key R&D Program: High-Precision Navigation and Positioning Technology for Multi-vehicle Cooperation.
 
 Skills
 ======
