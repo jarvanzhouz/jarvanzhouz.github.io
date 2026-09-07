@@ -68,6 +68,9 @@ Patents
 =======
 * A Cloud Fault Diagnosis Method for Autonomous Vehicle Powertrain Systems Based on Causal-Physical Information, 2026. **(Under substantive examination; Second Inventor; Ranked First Among Students)**
 * A Transfer Learning-Based On-Board Fault Diagnosis Method for Electric Mining Trucks with Cross-Powertrain Architectures, 2026. **(Under substantive examination; Second Inventor; Ranked First Among Students)**
+* An Energy-saving Driving Method for Integrated Comfort-Enhanced Connected Fuel Cell Buses. Authorization Date: 2025.09.26. **(Granted; Second Inventor; Ranked First Among Students)**
+* A New Energy Vehicle Eco-Driving Method Based on Heterogeneous Multi-Agent Deep Reinforcement Learning. Authorization Date: 2024.01.30. **(Granted; Third Inventor; Ranked Second Among Students)**
+* A Method for Constructing a High-Durability and Energy-Saving Driving Strategy for Fuel Cell Vehicles. Publication Date: 2024.01.23. **(Granted; Second Inventor; Ranked First Among Students)**
 
 Skills
 ======
